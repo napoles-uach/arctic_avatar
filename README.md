@@ -2,7 +2,7 @@
 ![Arctic Avatar](arctic_avatar.png)
 
 ## Description
-Arctic Avatar is an interactive application built with Streamlit that allows users to interact with a generative language model (LLM) through text or voice. The application features an animated avatar that responds to user inputs, providing a more engaging and visually appealing experience.
+Arctic Avatar is an interactive application built with Streamlit that allows users to interact with **Snowflake Arctic** through text or voice. The application features an animated avatar that responds to user inputs, providing a more engaging and visually appealing experience.
 
 ## Features
 - **Text and Voice Input**: Users can input their queries via text or voice recording.
