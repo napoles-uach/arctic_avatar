@@ -1,0 +1,4 @@
+streamlit-mic-recorder
+git+https://github.com/napoles-uach/streamlit_avatar.git@main
+replicate
+transformers
